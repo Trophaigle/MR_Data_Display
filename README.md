@@ -64,3 +64,13 @@ MR_Data_Display/
 ├── unity_client-dataMR/   # Unity XR application
 ├── files/                 # Media assets (ignored by git)
 └── README.md
+
+# 🚀 Getting Started
+
+## 1. Backend Setup (FastAPI)
+
+### Install dependencies
+
+```bash
+cd backend_python
+pip install -r requirements.txt
