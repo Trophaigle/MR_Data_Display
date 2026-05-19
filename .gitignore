@@ -1,0 +1,56 @@
+# =========================
+# UNITY XR PROJECT
+# =========================
+
+unity_client_dataMR/[Ll]ibrary/
+unity_client_dataMR/[Tt]emp/
+unity_client_dataMR/[Oo]bj/
+unity_client_dataMR/[Bb]uild/
+unity_client_dataMR/[Bb]uilds/
+unity_client_dataMR/[Ll]ogs/
+unity_client_dataMR/UserSettings/
+unity_client_dataMR/MemoryCaptures/
+
+unity_client_dataMR/.vs/
+unity_client_dataMR/.idea/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+unity_client_dataMR/Assets/AssetStoreTools*
+
+# =========================
+# PYTHON BACKEND
+# =========================
+
+backend_python/__pycache__/
+backend_python/**/*.pyc
+backend_python/**/*.pyo
+
+backend_python/venv/
+backend_python/.venv/
+backend_python/env/
+
+backend_python/.env
+backend_python/*.log
+
+# =========================
+# CUSTOM FILES
+# =========================
+
+files/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
