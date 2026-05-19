@@ -90,7 +90,32 @@ Look for
 ```bash
 IPv4 Address . . . . . . . . . : 192.168.1.xxx
 ```
-## 2. Configure Unity connection
+## 3. Configure Unity connection
 In Unity, fill Ip field with IPv4
 
+## 4. Run Unity XR App
+- Open unity_client-dataMR in Unity Hub
+- Switch platform to Android (Meta Quest 3)
+- Build & Run or use Link
+
+# 🔌 Communication System
+Unity XR Client ← WebSocket → FastAPI Backend ← OpenWeatherMap API
+
+- REST API: initial data fetch
+- WebSocket: real-time updates every 15 seconds
+
+# 📊 Features
+## 🌤 Weather Visualization
+- 3D histogram for daily forecasts
+- Temperature mapped to height
+- Color-coded weather states
+
+## 🧭 XR Interaction
+- Grab and move histogram in space
+- Spatial KPI panels
+- Immersive exploration
+
+## 🔄 Real-time updates
+- Data refreshed every 15 seconds
+- Live synchronization with backend
 
