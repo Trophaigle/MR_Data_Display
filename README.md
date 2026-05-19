@@ -74,3 +74,4 @@ MR_Data_Display/
 ```bash
 cd backend_python
 pip install -r requirements.txt
+```
