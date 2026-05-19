@@ -71,7 +71,7 @@ MR_Data_Display/
 
 # 🚀 Getting Started
 
-## 1. Backend Setup (FastAPI)
+## 1. Backend Setup (FastAPI, Uvicorn)
 
 ### Install dependencies
 
