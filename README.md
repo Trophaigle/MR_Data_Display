@@ -130,3 +130,9 @@ Unity XR Client ← WebSocket → FastAPI Backend ← OpenWeatherMap API
 - Spatial UI instead of flat HUD
 - Modular architecture (backend/client separation)
 - OpenWeatherMap API for live weather data
+
+# 👤 Author
+XR + Data Visualization project combining:
+- Real-time systems
+- Spatial UI design
+- Immersive interaction
