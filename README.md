@@ -82,3 +82,15 @@ pip install -r requirements.txt
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
+## 2. Find your local IP address
+```bash
+ipconfig
+```
+Look for
+```bash
+IPv4 Address . . . . . . . . . : 192.168.1.xxx
+```
+## 2. Configure Unity connection
+In Unity, fill Ip field with IPv4
+
+
