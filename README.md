@@ -6,6 +6,8 @@ MR_Data_Display is an immersive XR application that visualizes weather forecast 
 
 Built for **Meta Quest 3**, the system combines **Unity XR**, **FastAPI**, and **WebSockets** to stream real-time weather data and represent it as interactive spatial visuals.
 
+[![Watch the demo](files/images/video_thumbnail.png)](https://unityportfolio-gamma.vercel.app/videos/WeatherXRDemo.mp4)
+
 ---
 
 # 🎯 Project Overview
