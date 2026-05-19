@@ -119,3 +119,14 @@ Unity XR Client ← WebSocket → FastAPI Backend ← OpenWeatherMap API
 - Data refreshed every 15 seconds
 - Live synchronization with backend
 
+## 🎮 Meta Quest 3 Support
+- Fully immersive XR experience
+- Hand tracking
+
+# 🧩 Key Technical Choices
+- WebSockets for low-latency real-time updates
+- FastAPI for lightweight async backend
+- Unity XR Toolkit for cross-device XR interaction
+- Spatial UI instead of flat HUD
+- Modular architecture (backend/client separation)
+- OpenWeatherMap API for live weather data
