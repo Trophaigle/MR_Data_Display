@@ -64,6 +64,7 @@ MR_Data_Display/
 ├── unity_client-dataMR/   # Unity XR application
 ├── files/                 # Media assets (ignored by git)
 └── README.md
+```
 
 # 🚀 Getting Started
 
